@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FD_MU_Scheme.iml" filepath="$PROJECT_DIR$/FD_MU_Scheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.unisa.dia.gas.plaf.jpbc/field/field.iml" filepath="$PROJECT_DIR$/it.unisa.dia.gas.plaf.jpbc/field/field.iml" />
+    </modules>
+  </component>
+</project>
